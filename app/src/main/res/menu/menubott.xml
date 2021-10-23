@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Goride"
+        android:enabled="true"
+        android:icon="@drawable/scooter"
+        android:title="GoRide"/>
+    <item
+        android:id="@+id/gocar"
+        android:enabled="true"
+        android:icon="@drawable/car"
+        android:title="GoCar"/>
+    <item
+        android:id="@+id/gofood"
+        android:enabled="true"
+        android:icon="@drawable/cutlery"
+        android:title="GoFood"/>
+    <item
+        android:id="@+id/gosend"
+        android:enabled="true"
+        android:icon="@drawable/package_box"
+        android:title="GoSend"/>
+
+</menu>
