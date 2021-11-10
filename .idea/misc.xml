@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/pf2rb/AndroidStudioProjects/TugasKakSarahh/app/src/main/res/drawable/bg.xml" value="0.199609375" />
         <entry key="..\:/Users/pf2rb/AndroidStudioProjects/TugasKakSarahh/app/src/main/res/drawable/bg_lini.xml" value="0.24814814814814815" />
-        <entry key="..\:/Users/pf2rb/AndroidStudioProjects/TugasKakSarahh/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/pf2rb/AndroidStudioProjects/TugasKakSarahh/app/src/main/res/layout/activity_main.xml" value="0.18532818532818532" />
+        <entry key="..\:/Users/pf2rb/AndroidStudioProjects/TugasKakSarahh/app/src/main/res/layout/activity_top_up_page.xml" value="0.4" />
+        <entry key="..\:/Users/pf2rb/AndroidStudioProjects/TugasKakSarahh/app/src/main/res/layout/dgnhjhkfxs.xml" value="0.1875" />
         <entry key="..\:/Users/pf2rb/AndroidStudioProjects/TugasKakSarahh/app/src/main/res/layout/listmakanan.xml" value="0.2" />
         <entry key="..\:/Users/pf2rb/AndroidStudioProjects/TugasKakSarahh/app/src/main/res/menu/menubott.xml" value="0.190625" />
       </map>

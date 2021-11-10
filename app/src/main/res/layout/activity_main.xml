@@ -11,8 +11,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:tabMode="fixed"
-        app:tabIconTint="@color/teal_200"
-        app:tabTextColor="@color/teal_200"
+        app:tabIconTint="@color/white"
+        app:tabTextColor="@color/white"
+        android:background="@color/teal_200"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent">
@@ -71,6 +72,7 @@
         <com.google.android.material.textfield.TextInputEditText
             android:layout_width="match_parent"
             android:layout_height="35dp"
+            android:textColor="@color/black"
             />
 
     </com.google.android.material.textfield.TextInputLayout>
@@ -183,12 +185,13 @@
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintLeft_toRightOf="@id/rlbayar"
                 app:layout_constraintRight_toLeftOf="@+id/rlexplore">
-            <ImageView
-                android:id="@+id/ivtopup"
-                android:layout_width="24dp"
-                android:layout_height="24dp"
-                android:layout_centerHorizontal="true"
-                android:src="@drawable/plus" />
+
+                <ImageView
+                    android:id="@+id/ivtopup"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_centerHorizontal="true"
+                    android:src="@drawable/plus" />
 
             <TextView
                 android:id="@+id/tvtopup"
@@ -253,7 +256,5 @@
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintRight_toRightOf="parent"
             app:menu="@menu/menubott" />
-
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>
