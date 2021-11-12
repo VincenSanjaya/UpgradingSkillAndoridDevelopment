@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TugasKakSarahh">
         <activity
+            android:name=".MetodeLainFragment"
+            android:exported="true" />
+        <activity
             android:name=".TopUpPage"
             android:exported="true" />
         <activity
